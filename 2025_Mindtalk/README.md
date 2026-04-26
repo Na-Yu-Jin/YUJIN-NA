@@ -30,7 +30,7 @@ Python, Whisper (OpenAI), HuggingFace Transformers, PyTorch, FastAPI, PostgreSQL
 Fine-tuning in progress — model accuracy still low, further training needed before API integration
 
 ## Period
-2025.03.06~2025.07.22
+2025.03 ~ 2025.07
 
 
 ---
@@ -70,4 +70,4 @@ Python, Whisper (OpenAI), HuggingFace Transformers, PyTorch, FastAPI, PostgreSQL
 파인튜닝 진행 중 — 정확도 개선 후 API 연동 예정
 
 ## 기간
-2025.03.06~2025.07.22
+2025.03 ~ 2025.07
